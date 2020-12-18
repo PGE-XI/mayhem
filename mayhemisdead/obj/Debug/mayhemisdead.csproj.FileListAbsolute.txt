@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\mayhemisdead\mayhemisdead\bin\Debug\mayhemisdead.exe.config
+C:\Users\PC\source\repos\mayhemisdead\mayhemisdead\bin\Debug\mayhemisdead.exe
+C:\Users\PC\source\repos\mayhemisdead\mayhemisdead\bin\Debug\mayhemisdead.pdb
+C:\Users\PC\source\repos\mayhemisdead\mayhemisdead\obj\Debug\mayhemisdead.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\mayhemisdead\mayhemisdead\obj\Debug\mayhemisdead.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\mayhemisdead\mayhemisdead\obj\Debug\mayhemisdead.exe
+C:\Users\PC\source\repos\mayhemisdead\mayhemisdead\obj\Debug\mayhemisdead.pdb
